@@ -1,0 +1,24 @@
+{
+  "name": "s3-repo",
+  "version": "1.0.0",
+  "description": "Allows you to use s3 as an npm repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rajwilkhu/s3-repo.git"
+  },
+  "keywords": [
+    "s3",
+    "repository",
+    "node"
+  ],
+  "author": "Raj Wilkhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajwilkhu/s3-repo/issues"
+  },
+  "homepage": "https://github.com/rajwilkhu/s3-repo#readme"
+}
